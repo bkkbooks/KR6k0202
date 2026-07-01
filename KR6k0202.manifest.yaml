@@ -1,0 +1,157 @@
+canonical_identifier: bkk:krp/KR6k0202/v1
+canonical_location: https://kanripo.org/bkk/KR6k0202/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 慈悲道場水懺法隨聞錄
+  identifiers:
+    alt_id:
+    - X74n1495
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1495.xml
+    old_id: X74n1495
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0202_000.yaml, hash: 'sha256:4ad7e18b40e119930864b594c25448042dc25eac615dc0876095f855a19c1fa0'}
+  - {seq: 1, filename: KR6k0202_001.yaml, hash: 'sha256:b47b6175a66bb319a0dfcfff2732c14cbff7341a9aed977890f0c667a273cf7f'}
+  - {seq: 2, filename: KR6k0202_002.yaml, hash: 'sha256:024d41cabaafcfd8136ec6913ce42185c191053f54f4569a44192fd22639c44a'}
+  - {seq: 3, filename: KR6k0202_003.yaml, hash: 'sha256:76c92b21aec9771fb4d9317bd35c563f50e0a1d9763c1b8389dd8b3ebe180e81'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0202_000.markers.yaml, hash: 'sha256:bca09adcbfc473a3b05b41d2f348d9d272787bb4ab219bc6b7b4a779c686e5b2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0202_001.markers.yaml, hash: 'sha256:dad0631fb511a4de04dc23d00d14e9f3343f612e1c63808bd0857644acba8845'}
+  - {seq: 2, role: markers, filename: assets/KR6k0202_002.markers.yaml, hash: 'sha256:1021260bf22fa4e311b7df6e7afc7d0b994d65d5566d13735be147e4aebb0ddb'}
+  - {seq: 3, role: markers, filename: assets/KR6k0202_003.markers.yaml, hash: 'sha256:ea644f87606fdb96b63871a01f1801fd92449530b7c9302b7144ffa6382d4443'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1495-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-2
+    span:
+    - front
+    - 470
+    - 470
+  label: No. 1495-B 隨聞錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-3
+    span:
+    - front
+    - 759
+    - 759
+  label: No. 1495-C 重刻水懺隨聞錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-4
+    span:
+    - front
+    - 1021
+    - 1021
+  label: No. 1495-D 晝中禪師釋水懺敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-5
+    span:
+    - front
+    - 1479
+    - 1479
+  label: No. 1495-E
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-6
+    span:
+    - front
+    - 1479
+    - 1479
+  label: 慈悲水懺序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-7
+    span:
+    - front
+    - 3476
+    - 3476
+  label: 讚佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0202_X_000-mulu-8
+    span:
+    - front
+    - 7413
+    - 7413
+  label: 讚法偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0202_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 31484
+  label: 慈悲水懺法卷上隨聞錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0202_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 隨聞錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0202_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 34375
+  label: 慈悲水懺法卷中隨聞錄
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0202_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 22129
+  label: 慈悲水懺法卷下隨聞錄
+  type: juan
+  level: 1
+hash: sha256:b8667854f94d1ea84d0c9b3013683d34f721a50d1df914df514307469f097475
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
