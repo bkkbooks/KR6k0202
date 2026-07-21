@@ -21,12 +21,12 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0202_000.yaml, hash: 'sha256:f39ce24a718763f9bfe9aa8fe2a108b9c4ab6d16d7f30c3bb8773ea6d395367a'}
+  - {seq: 0, filename: KR6k0202_000.yaml, hash: 'sha256:bf87d74495c0b2e6803cad9a5b44b1e2143f5d63d993361c1a095afe9d861d3e'}
   - {seq: 1, filename: KR6k0202_001.yaml, hash: 'sha256:2d1b37d4b027d4735a583eea91f3dab3149d59d5a93ca7099a44944f0895d16b'}
   - {seq: 2, filename: KR6k0202_002.yaml, hash: 'sha256:5588a9ca0d0ee2164ff4e12ad66b4c49a9deabce1a514ca868a70783cea58eb2'}
   - {seq: 3, filename: KR6k0202_003.yaml, hash: 'sha256:bab3a078551d9d6c50d713ecbd4216e6acbeade762cbc5ff2dc59117fedca565'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0202_000.markers.yaml, hash: 'sha256:c10064b0b04ea774b328bd7dc1f51eb30a4d1367f0edd384efaaa09a640edada'}
+  - {seq: 0, role: markers, filename: assets/KR6k0202_000.markers.yaml, hash: 'sha256:412f025309731868ca356d8c169be50f7bc60ee1e46c19942dd575326321482b'}
   - {seq: 1, role: markers, filename: assets/KR6k0202_001.markers.yaml, hash: 'sha256:b778b2bf8d83c781327b76650899a8d73db38f41217e3622dfd283900ca28348'}
   - {seq: 2, role: markers, filename: assets/KR6k0202_002.markers.yaml, hash: 'sha256:37c86d60cd4c20007af42f463c66d8c9b6a1c2c758199f08aca8a5beb2e21cff'}
   - {seq: 3, role: markers, filename: assets/KR6k0202_003.markers.yaml, hash: 'sha256:c477846e56ec519faaeaf3595b8215371e84ad1f4c6b51d147e3356b87ec69ec'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1495-A 序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-2
     span:
-    - front
+    - body
     - 470
     - 470
   label: No. 1495-B 隨聞錄序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-3
     span:
-    - front
+    - body
     - 759
     - 759
   label: No. 1495-C 重刻水懺隨聞錄序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-4
     span:
-    - front
+    - body
     - 1021
     - 1021
   label: No. 1495-D 晝中禪師釋水懺敘
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-5
     span:
-    - front
+    - body
     - 1479
     - 1479
   label: No. 1495-E
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-6
     span:
-    - front
+    - body
     - 1479
     - 1479
   label: 慈悲水懺序
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-7
     span:
-    - front
+    - body
     - 3476
     - 3476
   label: 讚佛偈
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0202_X_000-mulu-8
     span:
-    - front
+    - body
     - 7413
     - 7413
   label: 讚法偈
@@ -151,7 +151,7 @@ table_of_contents:
   label: 慈悲水懺法卷下隨聞錄
   type: juan
   level: 1
-hash: sha256:1c1051d5cf53ee844a845fe2cfadcd3968f475abcd3b247c8e6e643a7f887f3c
+hash: sha256:f06817f7c39fbfe012522b42798898dcbf56c4687c82e45e34ac07c67c6d715c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
